@@ -112,5 +112,5 @@ Credit | Dendritic MLP (w=128, seed 1337) | 301,185 | −26% | 0.7955 | 0.7810
 ## Tips & troubleshooting
 - Change `--max-dendrites` / `--fixed-switch-num` to explore other compression targets. Everything is logged so you can audit each restructure.
 - For offline usage, copy the two ARFFs into `data_cache/openml/`; the loader automatically prefers local files.
-- Every dendritic run now emits the standard Perforated AI plot bundle (`<save_name>/*.png`). Attach the final `PAI.png` when you share results.
+- Every dendritic run now emits the standard Perforated AI plot bundle. 
 - Use `make sweep` to recreate the adult baseline+dendritic pair in one go.
