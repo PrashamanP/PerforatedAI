@@ -85,7 +85,7 @@ python Examples/baseExamples/adult_credit_dendrites/test_setup.py
 - **Default of Credit Card Clients** (`default of credit card clients.arff`): also fetched via OpenML (ID 42477). If network is disabled, download the ARFF manually, drop it into `data_cache/openml/`, and rerun the commands above.
 
 ## Outcomes
-### Google-Sheets style comparison
+
 Validation AUC vs parameter count for the four headline runs:
 
 ![Quality vs Parameters](results/quality_vs_params.png)
