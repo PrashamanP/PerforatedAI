@@ -1,6 +1,6 @@
 # Adult & Credit Tabular Compression with Dendrites
 
-**Goal.** I wanted to show that Perforated AI dendrites can shrink tabular MLPs on two separate UCI datasets (Adult Income & Credit Default) without losing AUC.
+**Goal:** I wanted to show that Perforated AI dendrites can shrink tabular MLPs on two separate UCI datasets (Adult Income & Credit Default) without losing AUC.
 
 ## What’s inside this folder?
 - `train.py` – single entry point with dataset flag, dendrite toggles, and logging utilities.
