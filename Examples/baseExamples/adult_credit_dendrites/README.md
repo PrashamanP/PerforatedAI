@@ -95,7 +95,7 @@ Validation AUC vs parameter count for the four headline runs:
 ![Validation bar chart](results/bar_outcomes.png)
 
 ### Final PAI graph
-The Perforated AI tracker now emits the standard `/PAI/*.png`. Below is the exact `PAI.png` from the winning credit dendritic run (seed 1337):
+The Perforated AI tracker now emits the standard `/PAI/*.png`. Below is the exact `PAI.png` from the winning credit dendritic run:
 
 ![PAI Graph](results/pai_credit_seed.png)
 
